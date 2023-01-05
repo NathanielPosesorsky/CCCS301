@@ -2,7 +2,6 @@
 
 /**
  * Nathaniel Posesorsky
- * Student ID:260803332
  * 2022-12-04
  * Computer.java
  */
