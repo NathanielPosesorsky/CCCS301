@@ -1,6 +1,5 @@
 /*
 Student Name: Nathaniel Posesorsky
-
  */
 
 import org.junit.*;
