@@ -1,4 +1,4 @@
-package CCCS301.CCCS301_Assignments.CCCS301_A3;
+
 
 import java.util.Scanner;
 
